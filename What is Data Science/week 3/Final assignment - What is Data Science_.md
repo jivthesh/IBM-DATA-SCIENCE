@@ -2,7 +2,7 @@
 
 ### Introduce yourself and share with your peers your background and any experience you have with data science
 
-Hello colleagues, my name is Joaquin, I'm Spanish and I'm 27 years old. I have completed my studies in finance and accounting and a master's degree in international business. The past years I have been working in an audit so my knowledge in the field of data science is quite limited.
+Hello colleagues, my name is Jivthesh, I'm Indian and I'm 24 years old. I have completed my studies in CSE-COMPUTER SCIENCE ENGINEERING But I Have No Prior Expriences  so my knowledge in the field of data science is quite limited.
 I am doing this course since I consider that this field has a great future and i am very interested in learning about python and machine learning.
 
 ### Based on the videos and the reading material, how would you define a data scientist and data science?
